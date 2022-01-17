@@ -1,2 +1,2 @@
-# -S-P-500-Daily-Returns
- Calculate and Plot S&amp;P 500 Daily Returns
+S&P 500 Daily Returns calculator
+ Calculate and Plot S&P 500 Daily Returns
